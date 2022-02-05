@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YjkQvlSDegafdVbSeU/REnNcua9r82ZaYuixCgymfWEKy03i1TlXay5Kw7pCOQAaWSRJ8zViL0zT1MX77IyIyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\source\\c# camp\\KampIntro\\KampIntro\\KampIntro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
